@@ -6,4 +6,4 @@ A correlation was found between movie gross and budget and a regression was done
 Other than budget, votes was also found to have a higher correlation.
 
 The correlation between features is simplified in the matrix:
-![https://github.com/hafixah5/Movie-Dataset-Analysis/blob/main/correlation_matrix.png]
+![correlation_matrix.png](https://github.com/hafixah5/Movie-Dataset-Analysis/blob/main/correlation_matrix.png)
